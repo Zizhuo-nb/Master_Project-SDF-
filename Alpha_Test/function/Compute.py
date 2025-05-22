@@ -1,4 +1,4 @@
-#####This .py file is mainly for computing data and trun it into o3d data type#####
+#####This .py file is mainly for computing data and get the samples and distances#####
 ###############For any question, please contact zzhang@uni-bonn.de###############
 from function.Read_Data import PointCloudDataReader
 import numpy as np
